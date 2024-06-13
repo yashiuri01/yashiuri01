@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-<p align="center"> 
-  <img alt="TopLangs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashiuri01&theme=tokyonight&layout=compact&count_private=true"/>
-  <img alt="githubStats" height="200px" src="https://github-readme-stats.vercel.app/api?username=yashiuri01&theme=tokyonight&show_icons=true"/>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashiuri01&theme=tokyonight&layout=compact)
 
-<p align="center">
-</p>
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashiuri01&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashiuri01&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashiuri01&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashiuri01&theme=gruvbox&utcOffset=9)
 
-<p align="center">
-</p>
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=yashiuri01&theme=gruvbox)
+-->
 
 
 <!--
