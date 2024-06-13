@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-<p align="left"> 
+<p align="center"> 
   <img alt="TopLangs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashiuri01&theme=tokyonight&layout=compact&count_private=true"/>
   <img alt="githubStats" height="200px" src="https://github-readme-stats.vercel.app/api?username=yashiuri01&theme=tokyonight&show_icons=true"/>
 </p>
 
+<p align="center">
+</p>
+
+<p align="center">
+</p>
 
 
 <!--
